@@ -1,0 +1,8 @@
+{
+  "name": "Remix UNION – Connect Through Interests",
+  "description": "Ứng dụng kết nối và duy trì tình bạn dành cho sinh viên thông qua sở thích chung, thử thách trò chuyện 3 phút và không gian kết nối nhẹ nhàng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
